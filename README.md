@@ -1,7 +1,7 @@
 # Movie Industry Analysis for Potential Microsoft Studio Venture 
 Author= Kristen Davis
 
-![GitHub Logo](/images/logo.png)
+![](/images/logo.png)
 Format: ![Alt Text](url)
 
 # Project Overview    
