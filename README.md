@@ -1,6 +1,8 @@
 # Movie Industry Analysis for Potential Microsoft Studio Venture 
 Author= Kristen Davis
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 # Project Overview    
 This project analyzes the studio movie industry. Descriptive analytics show that there is a dominant formula for creating high grossing movies. Microsoft can use this infomation to make a data driven choice on what type of content they should produce. 
