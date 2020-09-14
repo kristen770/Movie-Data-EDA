@@ -61,7 +61,7 @@ Of the top 5 grossing movies since 2010 71% can be classified into the "Action" 
   <img width="500" height="300" src="/IMG_4653.JPG">
 </p>  
 
-# Recomendations  
+# Recommendations  
 Based on these findings the recommendations to Microsoft are as follows: 
 1. Microsoft should target producing 10 movies in year 1 of production. 
 2. In order to optimize profit potential, Microsoft should emulate the top five highest earning movies in at least half  of their first-year productions.
